@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html >
+<head>
+
+<link rel="icon"  href="img/logo2.webp" />  
+
+
+    <meta charset="UTF-8">
+   
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/player.css" >
+ <title>Radio Live Music</title>
+
+</head>
+
+
+<body>
+
+<main id="player">
+    
+<header>
+
+
+
+    <img src="img/logo2.webp" >
+    <h2> Radio Live Music</h2>
+    <p id="title_radio">Radio Max Music</p>
+
+  
+</header>
+
+<div id="content">
+
+<img src="img/gif.gif"  id="giflogo"/>
+
+<article id="buttons">
+<img src="img/back.png" id="back"/>
+<img src="img/play.png"  id="play_pause"/>
+<img src="img/next.png" id="next"/>
+<audio src="" id="audio_file">music</audio>
+
+
+ </article>
+
+<article id="volume">
+    <h2>Sound</h2>
+    <input type="range" id="volum_rang" />
+
+    <h2>Speed</h2>
+
+ <input type="range" id="volum_speed" max="200" min="0"/>
+
+</article>
+
+
+<!-- انشاء عناصر الالوان -->
+<article id="color">
+
+<button id="color1"></button>
+<button id="color2"></button>
+<button id="color3"></button>
+<button id="color4"></button>
+
+
+</article>
+
+<img src="img/logo.webp" id="logo" />
+
+</div>
+
+</main>
+
+
+
+<script src="script/player.js"></script>    
+<script src="script/volum.js"></script>
+<script src="script/color.js"></script>
+
+
+<script src="script/gifmusic.js"></script>
+</body>
+</html>
