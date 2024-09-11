@@ -32,7 +32,7 @@ this.play_pause_button.addEventListener("click",()=>{
 
 
 this.names_radio =[];
-this.names_radio [0]= "AraBel FM";
+this.names_radio [0]= "Al Madina FM";
 this.names_radio [1] = "Radio Farah";
 this.names_radio[2] =" Watar  الهوا كله على وتر" ;
 this.names_radio[3] =" اذاعة ناي Radio Nay";
@@ -42,7 +42,7 @@ this.names_radio [6]= "Mazaj FM";
 this.names_radio [7]= "Mazaj TOP 40";
 this.names_radio [8]= "Sham FM";
 this.names_radio [9]= "Mahatet Masr";
-this.names_radio [10]= "Virgin Radio Lebanon";
+this.names_radio [10]= "Melody FM";
 this.names_radio [11] = "Live English Music";
 this.names_radio [12] = "Live Music Max";
 this.names_radio[13] = "Nederland Muziek";
@@ -50,7 +50,7 @@ this.names_radio[14] ="Radio Top 50";
 this.names_radio [15]= "Kiss FM";
 this.names_radio [16]= "RTL Berlin Radio";
 this.names_radio [17]= "Germany Fox Radio";
-this.names_radio [18]= "Getmany Party Radio";
+this.names_radio [18]= "Germany Party Radio";
 this.names_radio[19] ="Sky Radio Lounge ";
 this.names_radio [20]= "Annai FM India";
 this.names_radio [21] = "Rudaw Kurd radio";
@@ -64,9 +64,8 @@ this.names_radio [28] = "SLEMANI RADIO ";
 
 
 
-
 this.source_audio =[];
-this.source_audio[0] = "https://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3?1725741832";
+this.source_audio[0] = "https://stream.almadinafm.com/;stream.mp3?1726085789";
 this.source_audio [1] ="https://radio.farah.fm/?type=http&1725798058";
 this.source_audio [2] = "https://securestreams2.autopo.st:1243/live";
 this.source_audio [3] = "https://naifm.radioca.st/;";
@@ -76,7 +75,7 @@ this.source_audio[6] ="https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3?1725743
 this.source_audio[7] ="https://mazajtop40.ice.infomaniak.ch/mazajtop40-192.mp3?1725743130";
 this.source_audio[8] = "https://radioshamfm.grtvstream.com:8400/stream?1725747316";
 this.source_audio[9] ="https://s3.radio.co/s9cb11828c/listen?1725743624";
-this.source_audio[10] ="https://stream.zeno.fm/dwxw3p9vea0uv?1725742233";
+this.source_audio[10] ="https://ssl.surfmusic.de/s.php?s=http://streaming.inet.sy:8000/melodyfm?1726085597";
 this.source_audio [11] ="https://19763.live.streamtheworld.com/977_HITS.mp3";
 this.source_audio [12] ="https://stream.radyo45lik.com:4545/";
 this.source_audio [13] ="https://22713.live.streamtheworld.com/WEB16_MP3_SC";
