@@ -42,7 +42,7 @@ this.names_radio [6]= "Mazaj FM";
 this.names_radio [7]= "Mazaj TOP 40";
 this.names_radio [8]= "Sham FM";
 this.names_radio [9]= "Mahatet Masr";
-this.names_radio [10]= "Melody FM";
+this.names_radio [10]= "Lbi FM";
 this.names_radio [11] = "Live English Music";
 this.names_radio [12] = "Live Music Max";
 this.names_radio[13] = "Nederland Muziek";
@@ -75,7 +75,7 @@ this.source_audio[6] ="https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3?1725743
 this.source_audio[7] ="https://mazajtop40.ice.infomaniak.ch/mazajtop40-192.mp3?1725743130";
 this.source_audio[8] = "https://radioshamfm.grtvstream.com:8400/stream?1725747316";
 this.source_audio[9] ="https://s3.radio.co/s9cb11828c/listen?1725743624";
-this.source_audio[10] ="https://ssl.surfmusic.de/s.php?s=http://streaming.inet.sy:8000/melodyfm?1726085597";
+this.source_audio[10] ="https://ssl.surfmusic.de/s.php?s=http://andromeda.shoutca.st:8192/stream?1726086242";
 this.source_audio [11] ="https://19763.live.streamtheworld.com/977_HITS.mp3";
 this.source_audio [12] ="https://stream.radyo45lik.com:4545/";
 this.source_audio [13] ="https://22713.live.streamtheworld.com/WEB16_MP3_SC";
